@@ -1,4 +1,4 @@
-# &#x2B50 MiPaginaWebTAGC
+# &#x2B50; MiPaginaWebTAGC
 Repositorio test de sistemas de informacion
 
 ## Adrian Garcia
